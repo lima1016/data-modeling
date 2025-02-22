@@ -1,4 +1,4 @@
-# 📊 ISYE6501 - Introduction to Analytics Modeling
+# 📊 Introduction to Analytics Modeling
 
 R을 활용한 통계 분석, 머신러닝, 시각화를 중심으로 학습 중입니다.
 
