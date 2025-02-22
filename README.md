@@ -1,6 +1,6 @@
 # 📊 ISYE6501 - Introduction to Analytics Modeling
 
-이 저장소는 **2025년 봄학기** **Georgia Tech OMSCS ISYE6501 - Introduction to Analytics Modeling** 강의에서 데이터 분석과 모델링 실습을 기록합니다. R을 활용한 통계 분석, 머신러닝, 시각화를 중심으로 학습 중입니다.
+R을 활용한 통계 분석, 머신러닝, 시각화를 중심으로 학습 중입니다.
 
 ## 🎯 목적
 - 강의 개념과 실습 코드 정리
@@ -38,7 +38,7 @@ PCA의 주성분별 설명된 분산과 누적 분산을 시각화. 90% 이상 �
 - 코드와 시각화 개선
 
 ## 📚 참고
-- 강의: *ISYE6501 - Introduction to Analytics Modeling*
+- 강의: *Introduction to Analytics Modeling*
 - 데이터셋: `uscrime.txt`, `credit_card_data-headers.txt`, `temps.txt`
 
 ---
